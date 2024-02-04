@@ -1,1 +1,2 @@
-# django_dashboard
+# dashboard web app example using django
+refer to 
